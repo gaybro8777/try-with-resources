@@ -1,7 +1,7 @@
-package trywithresources;
+package com.macluq.java7;
 
-import trywithresources.exceptions.CatchException;
-import trywithresources.exceptions.FinallyException;
+import com.macluq.java7.exceptions.CatchException;
+import com.macluq.java7.exceptions.FinallyException;
 
 public class AllButOpening {
 

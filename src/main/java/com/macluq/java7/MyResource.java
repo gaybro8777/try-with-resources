@@ -1,8 +1,8 @@
-package trywithresources;
+package com.macluq.java7;
 
-import trywithresources.exceptions.ActionException;
-import trywithresources.exceptions.CloseResourceException;
-import trywithresources.exceptions.InitResourceException;
+import com.macluq.java7.exceptions.ActionException;
+import com.macluq.java7.exceptions.CloseResourceException;
+import com.macluq.java7.exceptions.InitResourceException;
 
 class MyResource implements AutoCloseable {
 

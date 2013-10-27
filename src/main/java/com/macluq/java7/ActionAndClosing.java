@@ -1,4 +1,4 @@
-package trywithresources;
+package com.macluq.java7;
 
 public class ActionAndClosing {
 

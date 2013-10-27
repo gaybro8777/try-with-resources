@@ -1,6 +1,6 @@
-package trywithresources;
+package com.macluq.java7;
 
-import trywithresources.exceptions.FinallyException;
+import com.macluq.java7.exceptions.FinallyException;
 
 public class OnlyFinally {
 
